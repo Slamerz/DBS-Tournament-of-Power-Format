@@ -35,7 +35,7 @@ Tournament of Power is a singleton format for Dragon Ball Super Card Game that e
   - Example: You may include more than 1 copy of a [Dragon Ball] keyword card, or as many Saibamen cards as you'd like
 
 - **Banned/Errata List**:
-  - No additional banned cards
+  - There is currently no Ban List.
   - All official Errata cards remain active
 
 ## Champion Rules
