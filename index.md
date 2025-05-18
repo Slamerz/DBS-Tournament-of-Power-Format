@@ -27,6 +27,7 @@ Tournament of Power is a singleton format for Dragon Ball Super Card Game that e
 
 - **Color Restrictions**:
   - Your deck cannot include colors that are not present on your Leader or Champion
+    - Exlusion: If your leader has a [Permanent] that allows it to ignore specified costs like "[Permanent] Treat cards with "Universe" as part of their special traits in all areas as if they had no specified cost." you may include cards that meet the Permanent's criteria of any color in the deck.
   - Example: If your Leader is Red and your Champion is Blue/Yellow, you can include Red, Blue, Yellow, and any combination of those colors in your deck
 
 - **Singleton Rule**:
